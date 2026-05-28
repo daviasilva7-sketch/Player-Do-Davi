@@ -41,3 +41,8 @@ h1 {
     -webkit-text-fill-color: transparent;
 }
 
+.logo{
+    display: flex;
+    font-size: 40px;
+    
+}
